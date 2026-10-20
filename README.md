@@ -18,6 +18,4 @@ oi! Me chamo Reginaldo Carlos<br>Atualmente estou cursando um curso técnico em 
 ---
 [![](https://komarev.com/ghpvc/?username=Reginaldo193&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->Olá meu nome é Reginaldo Carlos👋
-
-Atualmente sou estudante na área da tecnologia e faço um curso técnico em Desenvolvimento de Sistemas
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
