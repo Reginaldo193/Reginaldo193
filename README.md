@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Reginaldo Carlos | Desenvolvedor em Formação
 
 Atualmente cursando o ensino técnico em Desenvolvimento de Sistemas. Tenho experiência prática no desenvolvimento de páginas web e na aplicação de lógica de programação com Python.
 
 Busco constantemente expandir meus conhecimentos em engenharia de software, desenvolvimento web e boas práticas de código para resolver problemas reais através da tecnologia.
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reginaldo-sousa-09467239a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reginaldocarlos2023@gmail.com) 
 
 # 💻 Tech Stack:
